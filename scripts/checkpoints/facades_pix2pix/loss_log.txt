@@ -1,0 +1,43 @@
+================ Training Loss (Mon Sep 24 05:56:37 2018) ================
+(epoch: 1, iters: 100, time: 1.996, data: 0.099) G_GAN: 2.186 G_L1: 26.211 D_real: 0.260 D_fake: 0.165 
+(epoch: 1, iters: 200, time: 2.003, data: 0.000) G_GAN: 2.492 G_L1: 19.420 D_real: 0.260 D_fake: 0.124 
+(epoch: 1, iters: 300, time: 2.081, data: 0.001) G_GAN: 3.501 G_L1: 23.468 D_real: 0.793 D_fake: 0.023 
+(epoch: 1, iters: 400, time: 2.294, data: 0.000) G_GAN: 1.995 G_L1: 35.484 D_real: 0.035 D_fake: 0.176 
+(epoch: 1, iters: 500, time: 1.947, data: 0.000) G_GAN: 1.786 G_L1: 26.104 D_real: 0.106 D_fake: 0.162 
+(epoch: 1, iters: 600, time: 2.012, data: 0.000) G_GAN: 1.978 G_L1: 30.957 D_real: 0.407 D_fake: 0.049 
+================ Training Loss (Mon Sep 24 06:18:10 2018) ================
+================ Training Loss (Mon Sep 24 06:22:57 2018) ================
+(epoch: 1, iters: 100, time: 2.064, data: 0.071) G_GAN: 2.485 G_L1: 33.690 D_real: 0.102 D_fake: 0.353 
+================ Training Loss (Mon Sep 24 11:47:36 2018) ================
+================ Training Loss (Mon Sep 24 11:49:07 2018) ================
+================ Training Loss (Mon Sep 24 11:49:25 2018) ================
+================ Training Loss (Mon Sep 24 11:49:42 2018) ================
+================ Training Loss (Mon Sep 24 11:49:55 2018) ================
+================ Training Loss (Mon Sep 24 11:51:34 2018) ================
+================ Training Loss (Mon Sep 24 11:52:23 2018) ================
+================ Training Loss (Mon Sep 24 11:52:56 2018) ================
+================ Training Loss (Mon Sep 24 11:54:15 2018) ================
+================ Training Loss (Mon Sep 24 11:54:37 2018) ================
+================ Training Loss (Mon Sep 24 11:57:07 2018) ================
+================ Training Loss (Mon Sep 24 11:58:37 2018) ================
+================ Training Loss (Mon Sep 24 11:59:17 2018) ================
+================ Training Loss (Mon Sep 24 11:59:26 2018) ================
+================ Training Loss (Mon Sep 24 11:59:55 2018) ================
+================ Training Loss (Mon Sep 24 12:00:34 2018) ================
+================ Training Loss (Mon Sep 24 12:01:35 2018) ================
+================ Training Loss (Mon Sep 24 12:01:46 2018) ================
+================ Training Loss (Mon Sep 24 12:04:12 2018) ================
+(epoch: 1, iters: 100, time: 2.092, data: 0.087) G_GAN: 0.829 G_L1: 13.266 D_real: 0.772 D_fake: 0.631 
+(epoch: 1, iters: 200, time: 2.179, data: 0.000) G_GAN: 0.901 G_L1: 13.286 D_real: 0.826 D_fake: 0.690 
+(epoch: 1, iters: 300, time: 2.394, data: 0.001) G_GAN: 0.941 G_L1: 33.636 D_real: 0.523 D_fake: 0.655 
+(epoch: 1, iters: 400, time: 2.049, data: 0.000) G_GAN: 0.993 G_L1: 19.925 D_real: 0.347 D_fake: 0.725 
+(epoch: 1, iters: 500, time: 2.097, data: 0.000) G_GAN: 1.048 G_L1: 12.091 D_real: 0.230 D_fake: 1.406 
+(epoch: 1, iters: 600, time: 2.129, data: 0.000) G_GAN: 2.112 G_L1: 48.076 D_real: 0.093 D_fake: 0.862 
+(epoch: 1, iters: 700, time: 2.093, data: 0.000) G_GAN: 1.094 G_L1: 11.873 D_real: 0.448 D_fake: 0.854 
+(epoch: 1, iters: 800, time: 2.098, data: 0.000) G_GAN: 1.053 G_L1: 13.810 D_real: 1.081 D_fake: 0.513 
+(epoch: 1, iters: 900, time: 2.030, data: 0.000) G_GAN: 0.521 G_L1: 12.169 D_real: 1.754 D_fake: 1.074 
+(epoch: 1, iters: 1000, time: 2.022, data: 0.000) G_GAN: 2.051 G_L1: 10.168 D_real: 0.204 D_fake: 0.669 
+(epoch: 1, iters: 1100, time: 2.009, data: 0.000) G_GAN: 1.869 G_L1: 20.114 D_real: 0.379 D_fake: 0.253 
+(epoch: 1, iters: 1200, time: 2.028, data: 0.000) G_GAN: 1.689 G_L1: 9.478 D_real: 0.240 D_fake: 0.382 
+(epoch: 1, iters: 1300, time: 2.038, data: 0.000) G_GAN: 3.051 G_L1: 7.282 D_real: 0.086 D_fake: 0.427 
+(epoch: 2, iters: 70, time: 2.036, data: 0.000) G_GAN: 0.660 G_L1: 14.126 D_real: 0.482 D_fake: 0.913 
